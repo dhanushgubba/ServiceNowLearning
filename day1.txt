@@ -1,0 +1,98 @@
+Instance:
+---------
+It is an interface use where the user can interact with the platform to make use of the plaform or services
+* Instance is Independent, changeable and highly configurable.
+
+ServiceNow Capabilities and Services:
+1. It provides all users with high-performance business services that makes work better for us.
+2. we can collaborate with our colleagues and share data by interacting in a single instance.
+3. It provides reliable multi-instance cloud services.
+
+
+There are 6 workflows in the servicenow:
+1. Creator workflow
+2. Industry workflow
+3. Information Technology (IT) workflow
+4. Finance workflow
+5. Employee workflow
+6. Customer workflow
+
+
+There are 4 types to interact with ServiceNow Platform Interfaces:
+1. The Next Experience
+2. Now Mobile
+3. Service Portal
+4. Employee Center
+
+In path,
+esc  - Employee Service Portal
+sc - Service Portal
+
+Note : Every 6 months the ServiceNow has a new release
+
+
+Next Experience, Navigation and UI (Unified Navigation):
+--------------------------------------------------------
+The Next Experience Unified Navigation is the main way for users to interact with the applications and information in a ServiceNow Instance.
+
+Next Experience features:
+1. Real time updates
+2. User Presence
+3. Menus for easy access to all applications
+
+
+Next Experience Menus:
+1. All Menu
+2. Filter Navigator
+3. Refershing or pinning all Menu
+4. Adding Favorites
+5. History Menu
+6. Workspaces Menu
+
+
+Instance Personalization:
+
+User Preferences:
+1. Display
+2. Accessbility
+3. Workspaces
+4. User Experience
+5. Theme
+6. Notifications
+7. Language & Region
+
+
+Workspaces:
+It is a suite of tools displayed in a single-pane view that help to resolve customer problems.
+These tools are used by:
+* Agents
+* Case Managers
+* Help Desk Professionals
+* Managers
+
+
+Lists:
+It displayes records from a table in the form of lists.
+
+Forms:
+--> It displays fields from one record, where users can view and edit the record data.
+--> It contain sections and Related Lists
+--> Easily accessible for Global Search
+
+Knowledge Articles:
+-------------------
+Request a Knowledge Base:
+All -> Self-Service -> Service Catalog
+
+Service Catalog:
+----------------
+Self-Service -> Service Catalog
+
+
+
+Lists:
+------
+* It displays the set of records from a table.
+* We can identify the data in form of rows and columns
+* Each row --> one record 
+* Each column --> one field
