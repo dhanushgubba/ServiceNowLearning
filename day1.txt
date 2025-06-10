@@ -96,3 +96,131 @@ Lists:
 * We can identify the data in form of rows and columns
 * Each row --> one record 
 * Each column --> one field
+
+* Views enable users to quickly display the same list in multiple ways.
+    List controles -> Menu
+* If the view is anything other than Default view, the view name appears in bracket
+    Eg: View: Mobile
+
+A List that is displayed to user will be sorted by one of the following:
+1. Order field
+2. Number field
+3. Name field
+
+List Personalization:
+---------------------
+* Personalize list should be used for temporary situations.
+* The Personalize list modifies the layout of list of an individual user but it doesnot effect entire Platform users.
+    The following can be done to Personalize list:
+    1. Add or remove columns
+    2. Rearrange columns
+    3. Reset column Headers
+
+List Editing:
+-------------
+* It is a type in which we can edit the data without opening the form
+  Steps:
+  1. select the field
+  2. make the change in the data
+  3. click on (tick) mark beside it or can selected multiple records (by shift)
+  4. updated
+
+List Filters:
+-------------
+* It is a set of conditions applied to the table list to isolate a subset of data.
+* There are 3 fields of List Filters:
+    1. field
+    2. Operator
+    3. value
+* Field operators change depending on data types:
+  1. Text value -  is, is not, contains, is one of, starts with, ends with.
+  2. Numeric - is, is not, greater than, less than, greater than or is, less than or is.
+  3. Date - on, before, after, between, is more than, is less than.
+
+* We also have two buttons AND,OR buttons we can select them and click on OK.
+
+Quick Filters:
+--------------
+* Right-click on any field --> Show matching Records
+* Filter Out --> It allows us to see the only record other than seeing what we don't need
+
+Tags:
+-----
+* Tags are the easy way to categorize, locate the data
+* Right-click on any field -> Assign Tag -> Pre-defined tags / create new tag
+* we can also add a tags column using Personalized List Column 
+    -- By doing so, we can use in-line editing to add or remove tags from the list view
+    -- To save, Press Enter.
+
+Forms:
+------
+* It displays fields from one record
+* Users can view or edit fields in a record if they have access to
+* In additional fields,
+    the form also contains sections (ex: notes, information, analysis, resolution information and other Related Lists)
+* In the form,
+    1. Back
+    2. Form Context Menu
+    3. Record Title
+    4. Manage Attachments
+    5. Activity Stream
+    6. Personalize Forms
+    7. More options Menu
+    8. Submit/update
+    9. Resolve
+
+Field Types:
+------------
+* By Selecting the Reference icon, we can preview or open a record from another table in the Platform
+
+
+Formatters: 
+-----------
+* It is an element used to display information that is not a field in a record
+
+Related Links:
+--------------
+* In the form we have related links,
+    Ex: we are viewing the incident and it shows other record also because it's related to it which is not displayed in the form.
+
+Related Lists:
+--------------
+* It shows records from tables that have a relationship to the current record.
+* we can view or edit the record and also can create new one
+
+
+Workspace Anatomy:
+------------------
+1. Workspace Home
+2. Schedules
+3. Record view tabs
+4. Workspace List view
+5. Teams
+6. Dashboard
+
+Sidebar:
+-------
+Sidebar increases productivity, solves issues faster, and reduces the number of customer escalations.  
+You may also search the discussions in a sidebar or pin the sidebar to your instance. 
+Sidebars are supported in the following Workspaces: 
+1. CSM Configurable Workspace 
+2. CSM Manager Workspace
+3. HR Agent Workspace
+4. ITSM Manager Workspace
+5. Security Incident Response Workspace
+6. Vendor Management Workspace
+
+Personalize forms:
+------------------
+* click on the Personalized icon --> the fields displayed that we can see by selecting it.
+* There are two ways to remove a field in the form:
+  1. A cleared (unchecked) box
+  2. select the check box to display the field
+
+
+Templates:
+----------
+* Select the More Options button --> Select Toggle Template Bar,
+    1. Click on create new one (or) 
+    2. + icon to remove the template bar from the form.
+* It allows fields to be populated automatically, simplifying the process of generating new records.
